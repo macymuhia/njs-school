@@ -1443,11 +1443,11 @@ header.page-header .main-menu.minified {
 }
 
 .status {
-    width: 128px;
-    height: 128px;
+    width: 512px;
+    height: 512px;
     position: absolute;
-    left: 50%;
-    top: 50%;
+    left: 35%;
+    top: 20%;
     background-image: url(../images/preloader.gif);
     background-repeat: no-repeat;
     background-position: center;
